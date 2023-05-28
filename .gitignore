@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+*.pem
+!mock-cert.pem
+.env
+coverage
+lib
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
+
+# IDE
+.idea
