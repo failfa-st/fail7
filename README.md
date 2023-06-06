@@ -30,4 +30,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2023 Gregor Adams
+[AGPL-3.0](LICENSE) © 2023 Gregor Adams
